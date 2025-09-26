@@ -37,12 +37,7 @@ This is a **portfolio website I designed and developed for a client (Margaret)**
 
 ## 📸 Screenshots
 
-Here you can showcase how the site looks.  
-To add screenshots:  
-1. Create a folder in this repo called `screenshots`.  
-2. Upload images of the site.  
-3. Link them like this:
+Showcase how the site looks.  
 
-```markdown
 ![Homepage](screenshots/homepage.png)
 ![Projects Section](screenshots/projects.png)
